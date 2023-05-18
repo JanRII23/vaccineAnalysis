@@ -7,7 +7,7 @@ This is a personal data science project
 #### -- The README.md is still a working one
 
 ## Project Intro/Objective
-Heart disease is one of the leading cause of death globally. The purpose of this project is to evaluate the likelihood of heart disease by combining different Kaggle datasets. The techniques and findings from this project will then be applied to raw datasets related to heart disease.
+The goal of this project is to predict whether people got H1N1 and seasonal flue vaccines using information they shared about their backgrounds, opinions, and health behaviors.
 
 ### Methods Being Used
 * Predictive Modeling
@@ -24,7 +24,7 @@ Heart disease is one of the leading cause of death globally. The purpose of this
 * JavaScript
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+https://www.drivendata.org/competitions/66/flu-shot-learning/ (click the link to learn more about the competition)
 
 
 ## Getting Started
@@ -38,7 +38,5 @@ Heart disease is one of the leading cause of death globally. The purpose of this
 
 ## Links
 * Setup
-
-* Kaggle Datasets
 
 * Important Links (tutorial YT, etc...)
