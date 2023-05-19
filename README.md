@@ -1,4 +1,4 @@
-# Heart Disease Analysis
+# H1N1 and Seasonal Flu Analysis
 
 This is a personal data science project
 
