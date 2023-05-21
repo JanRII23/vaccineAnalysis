@@ -1,9 +1,14 @@
 # Working Journal
-The general format for each journal entry are:
+The general mix of prompts for each journal entry considered are:
 * What I did
 * Why I did it
 * What I expected
 * What were the results
+
+### Date: 05-20-2023
+It is interesting to note that after some initial data exploration, that there are features in this original dataset that were randomly represented as a string. I was hoping to visualize the samples and possibly extend it with political leanings of each state but may not be possible. I wonder that this random string assignment was intended to remove any political bias to the analysis. Furthermore, there quite intriguing things that need to be evaluated when seeing the histogram. 
+
+Plans are to continue working on the numerical visual analysis, possibly incorporating some background links regarding H1N1 and information related/public sentiment at the time, and more brainstorming on the possible analysis that can be done. 
 
 #### Date: 05-18-2023
 The tasks finished today was setting up the environment, working github repo, and outlining the jupyter notebook. Furthermore, started some initial eda. 
