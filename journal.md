@@ -5,6 +5,9 @@ The general mix of prompts for each journal entry considered are:
 * What I expected
 * What were the results
 
+### Date: 05-21-2023
+Only had enough time to do some slight countplot visualizations + evaluations for both numerical and categoricals. I realized that during the evaluation it is quite difficult to find there are so many things to consider that will possibly guide my analysis. One thing that I do need to do once I am done with the EDA is to set aside the most interesting visuals/relationships found. 
+
 ### Date: 05-20-2023
 It is interesting to note that after some initial data exploration, that there are features in this original dataset that were randomly represented as a string. I was hoping to visualize the samples and possibly extend it with political leanings of each state but may not be possible. I wonder that this random string assignment was intended to remove any political bias to the analysis. Furthermore, there quite intriguing things that need to be evaluated when seeing the histogram. 
 
