@@ -5,6 +5,9 @@ The general mix of prompts for each journal entry considered are:
 * What I expected
 * What were the results
 
+### Date: 05-23-2023
+The numerical EDA explanation were refined further in order to make sense of what relationships are important and make sure I find all things to consider, before doing a complete data cleaning and classification modeling. 
+
 ### Date: 05-21-2023
 Only had enough time to do some slight countplot visualizations + evaluations for both numerical and categoricals. I realized that during the evaluation it is quite difficult to find there are so many things to consider that will possibly guide my analysis. One thing that I do need to do once I am done with the EDA is to set aside the most interesting visuals/relationships found. 
 
